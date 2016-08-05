@@ -1,0 +1,19 @@
+
+.jumbotron {
+  margin: 50px;
+  text-align: center;
+}
+
+.jumbotron h1 {
+  font-size: 60px;
+}
+
+.my-photo img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 500px;
+  width: auto;
+  border-radius: 50%;
+
+}
