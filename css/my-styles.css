@@ -29,6 +29,10 @@
   color: peru;
 }
 
+p {
+  text-align: center;
+}
+
 #site li {
   list-style-type: none;
   text-align: left;
@@ -44,7 +48,7 @@
 }
 
 #myCarousel img {
-  height: 300px
+  height: 300px;
   width: auto;
 }
 
