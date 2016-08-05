@@ -14,6 +14,9 @@ _This is a landing page for my web programming portfolio. It includes images tha
     * https://github.com/jenasancartier/portfolio-page.git
 2. Move into the project folder
 3. Open index.html in the browser of your choice
+_OR_
+* You can simply open the website in your browser with this link:
+    * https://jenasancartier.github.io/portfolio-page/
 
 
 ## Known Bugs
@@ -31,6 +34,6 @@ _HTML, CSS, GIT, BOOTSTRAP_
 
 ### License
 
--This website is licensed under the GPL license
+This website is licensed under the GPL license
 
 Copyright (c) 2016 **_{J'ena SanCartier}_**

@@ -69,6 +69,11 @@
   height: 400px;
 }
 
+a:hover {
+  font-family: monospace;
+  color: peru;
+}
+
 .footer {
   margin-left: 250px;
   float:left;
