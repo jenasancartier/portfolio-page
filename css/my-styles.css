@@ -8,6 +8,12 @@
   font-size: 60px;
 }
 
+.sidebar {
+  float: left;
+  background-color: grey;
+  padding: 20px;
+}
+
 .my-photo img {
   display: block;
   margin-left: auto;
@@ -15,5 +21,22 @@
   height: 500px;
   width: auto;
   border-radius: 50%;
+  border: solid black 3px;
+}
 
+.row {
+  margin-left: 0;
+  margin-right: 0;
+  text-align: center;
+  padding-top: 20px;
+}
+
+#myCarousel img {
+  height: 300px
+  width: auto;
+}
+
+.carousel-inner > .item > img {
+  margin: 0 auto;
+  height: 400px;
 }
