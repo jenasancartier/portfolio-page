@@ -31,6 +31,21 @@
   padding-top: 20px;
 }
 
+#site li {
+  list-style-type: none;
+  text-align: left;
+}
+
+.education {
+  text-align: left;
+}
+
+#myCarousel {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 #myCarousel img {
   height: 300px
   width: auto;
