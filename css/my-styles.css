@@ -5,6 +5,7 @@
 
 .jumbotron h1 {
   font-size: 60px;
+  color: peru;
 }
 
 .my-photo img {
@@ -25,6 +26,10 @@
   padding-top: 5px;
 }
 
+.row h2 {
+  color: peru;
+}
+
 #site li {
   list-style-type: none;
   text-align: left;
@@ -41,7 +46,7 @@
 
 #myCarousel img {
   height: 300px
-  max-width: 100%;
+  width: auto;
 }
 
 .carousel-indicators {
@@ -62,7 +67,6 @@
 }
 
 a:hover {
-  font-family: monospace;
   color: peru;
 }
 
