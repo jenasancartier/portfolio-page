@@ -1,16 +1,10 @@
 .jumbotron {
-  margin: 50px;
   text-align: center;
+  margin: 20px;
 }
 
 .jumbotron h1 {
   font-size: 60px;
-}
-
-.sidebar {
-  float: left;
-  background-color: grey;
-  padding: 20px;
 }
 
 .my-photo img {
@@ -22,7 +16,6 @@
   border-radius: 50%;
   border: solid black 3px;
   margin-bottom: 20px;
-  float: center;
 }
 
 .row {
@@ -42,14 +35,13 @@
 }
 
 #myCarousel {
-  width: 1000px;
   margin-left: auto;
   margin-right: auto;
 }
 
 #myCarousel img {
   height: 300px
-  width: auto;
+  max-width: 100%;
 }
 
 .carousel-indicators {
